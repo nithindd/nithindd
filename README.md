@@ -9,7 +9,7 @@
   &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/nithindevanand">LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="https://medium.com/@nithindd">Medium</a>
+  <a href="https://medium.com/@techresearchspace">Medium</a>
 </p>
 
 ---
