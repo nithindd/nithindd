@@ -68,6 +68,9 @@ Double-entry bookkeeping with AI invoice scanning, vendor auto-categorization, a
 ### [ResourceHub](https://github.com/nithindd/resourcehub) — Personal Resource Manager
 Centralized app for saving and organizing links, PDFs, images, and audio files. Features Google OAuth, custom categories, full-text search, cloud storage with privacy controls, and a dark-mode UI. Built with React, Vite, and Supabase. · [Live](https://resourcehubdeploy.vercel.app)
 
+### [360° Life](https://github.com/nithindd/life360) — AI Life Management App *(private)*
+Track goals, habits, and tasks across every dimension of your life — with a personal Claude AI coach who knows your data. Built with Next.js, TypeScript, Supabase, and the Claude API.
+
 ### [Multi-Agent Reinforcement Learning](https://github.com/nithindd/DRLND_CollabAndCompete) — Cooperative Tennis Agents
 Trained two agents to play tennis using the MADDPG algorithm in a collaborative multi-agent environment.
 
