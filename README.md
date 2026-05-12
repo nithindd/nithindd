@@ -65,6 +65,9 @@ Deep Reinforcement Learning · MADDPG · DDPG · DQN · CNN · RNN · Computer V
 ### [FinanceHub](https://github.com/nithindd/financehub) — AI-Powered Accounting Platform
 Double-entry bookkeeping with AI invoice scanning, vendor auto-categorization, and real-time financial dashboards. Built with Next.js 15, TypeScript, Supabase, Google Gemini, and Resend.
 
+### [NewsCurator](https://github.com/nithindd/NewsCurator) — AI-Powered News Dashboard
+Organise topics, gather articles from any source, get Claude AI summaries, and receive a daily email digest. Built with Next.js, TypeScript, FastAPI, PostgreSQL, and the Claude API.
+
 ### [ResourceHub](https://github.com/nithindd/resourcehub) — Personal Resource Manager
 Centralized app for saving and organizing links, PDFs, images, and audio files. Features Google OAuth, custom categories, full-text search, cloud storage with privacy controls, and a dark-mode UI. Built with React, Vite, and Supabase. · [Live](https://resourcehubdeploy.vercel.app)
 
