@@ -65,6 +65,9 @@ Deep Reinforcement Learning · MADDPG · DDPG · DQN · CNN · RNN · Computer V
 ### [FinanceHub](https://github.com/nithindd/financehub) — AI-Powered Accounting Platform
 Double-entry bookkeeping with AI invoice scanning, vendor auto-categorization, and real-time financial dashboards. Built with Next.js 15, TypeScript, Supabase, Google Gemini, and Resend.
 
+### [ResourceHub](https://github.com/nithindd/resourcehub) — Personal Resource Manager
+Centralized app for saving and organizing links, PDFs, images, and audio files. Features Google OAuth, custom categories, full-text search, cloud storage with privacy controls, and a dark-mode UI. Built with React, Vite, and Supabase. · [Live](https://resourcehubdeploy.vercel.app)
+
 ### [Multi-Agent Reinforcement Learning](https://github.com/nithindd/DRLND_CollabAndCompete) — Cooperative Tennis Agents
 Trained two agents to play tennis using the MADDPG algorithm in a collaborative multi-agent environment.
 
